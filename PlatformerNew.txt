@@ -1,0 +1,7 @@
+Very basic set-up for platforming game.
+
+Player movement controls
+Player weapon firing
+Enemy spawning
+enemy pathfinding.
+respawn system
